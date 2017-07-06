@@ -14,7 +14,9 @@
       </ul>
       </ul>
       </p>
-<p>It's going to be <i>really</i> difficult and time cosuming. But I need this and want this.</p>
+<p>It's going to be <i>really</i> difficult and time cosuming, but I need this and want this.</p>
+
+<h3>So let's get started!</h3>
 
 </html
 
