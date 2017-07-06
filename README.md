@@ -9,7 +9,7 @@
   <li>What I would like to accomplish:</li>
     <ul>
       <li>Basic Understanding of HTML</li>
-      <li>Learnings of CSS</li>
+      <li>Learning CSS and it's bahaviors</li>
       <li>Eventually a career that relies on myself</li>
       </ul>
       </ul>
