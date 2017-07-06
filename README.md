@@ -1,9 +1,10 @@
-# hello-world
+<!DOCTYPE html>
 <html>
-  <title>
-    <h4>This is the start of my learnings.</h4>
-  </title>
+<head>
+<title>Hello-world</title>
+</head>
 <body>
+<h3>This is the beginning of my learning!<h3>
 <p>I'm ready to start a new chapter of my life. One that is actually interesting and fulfilling to me.</p>
 <p>
   <ul>
