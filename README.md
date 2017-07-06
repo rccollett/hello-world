@@ -8,7 +8,11 @@
   <li>What I would like to accomplish</li>
     <ul>
       <li>Basic Understanding of HTML</li>
-      <li>Leanrings of CSS</li>
-      <li> Eventually a career that relies on myself</li>
-      </ul>
-     </ul>
+      <li>Learnings of CSS</li>
+      <li>Eventually a career that relies on myself</li>
+      </ul
+     </ul
+asdvasvn  
+ 
+ </html>
+dveewpojwpeofjwef;wefpwef
