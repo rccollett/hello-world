@@ -6,7 +6,7 @@
   <p>I'm ready to start a new chapter of my life. One that is actually interesting and fulfilling to me.</p>
 <p>
 <ul>
-  <li>What I would like to accomplish</li>
+  <li>What I would like to accomplish:</li>
     <ul>
       <li>Basic Understanding of HTML</li>
       <li>Learnings of CSS</li>
